@@ -59,5 +59,9 @@ Contains supplementary materials to facilitate project setup and accessibility:
 
 ## Getting Started
 
-To reproduce the experiments or explore the methodologies presented in this work, please refer to the bash scripts in the `bash/` folder or use the Google Colab notebook provided in the `other/` folder for a quick start.
+To reproduce the experiments or explore the methodologies presented in this work, please refer to the bash scripts in the `bash/` folder or use the Google Colab notebook provided in the `other/` folder for a quick start. Note that `interpreto` library might evolve in the futur which may implies loss in compatibility.
+
+---
+
+Raphael Bernas
 
